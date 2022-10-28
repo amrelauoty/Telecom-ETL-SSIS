@@ -25,7 +25,7 @@ It consist of Control Flow and Data Flow
 ### Control Flow
 
 <p style="text-align:center">
-  <img src="./images/Telecom-Control_Flow.png" alt="control-flow">
+  <img src="./Images/Telecom-Control_Flow.png" alt="control-flow">
 </p>
 
 * Every run for the package we get new batch_id depending on the last batch_id at the `audit_dim`
@@ -38,7 +38,7 @@ It consist of Control Flow and Data Flow
 ### Data Flow
 
 <p style="text-align:center">
-  <img src="./images/Telecom-Data_Flow.png" alt="data-flow">
+  <img src="./Images/Telecom-Data_Flow.png" alt="data-flow">
 </p>
  
 * Reading the data from the files and check if it is matched with the data quality rules we made
@@ -52,7 +52,7 @@ It consist of Control Flow and Data Flow
 ## Database Schema Design
 
 <p style="text-align:center">
-  <img src="./images/schema.png" alt="data-flow">
+  <img src="./Images/schema.png" alt="schema">
 </p>
 
 ## Usage
